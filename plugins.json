@@ -174,7 +174,7 @@
             "version": "6.6.0",
             "bat_path": "RSMB",
             "needs_version": false,
-            "size": "32.4 MB",
+            "size": "~2 MB",
             "keywords": [
                 "rsmb",
                 "reel",

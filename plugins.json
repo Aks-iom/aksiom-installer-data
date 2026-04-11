@@ -172,9 +172,9 @@
         {
             "name": "RSMB",
             "version": "6.6.0",
-            "bat_path": "RSMB",
+            "bat_path": "RSMB/setup.exe",
             "needs_version": false,
-            "size": "~2 MB",
+            "size": "32.4 MB",
             "keywords": [
                 "rsmb",
                 "reel",

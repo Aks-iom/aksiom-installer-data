@@ -156,6 +156,15 @@
             "gdrive_id": "1QbviuYn0E8-Q3_cNT6Rwky7NcrULKRhm"
         },
         {
+            "name": "Influx",
+            "version": "1.6.1",
+            "bat_path": "Autokroma Influx/dummy",
+            "needs_version": false,
+            "size": "36 MB",
+            "gdrive_id": "1rWImgkUwvFXhkUiArRzi1DDpfqPi24xc",
+            "keywords": ["influx", "autokroma"]
+        },
+        {
             "name": "Prime_tool",
             "version": "1.0",
             "bat_path": "Prime_tool\\Prime_tool.bat",
